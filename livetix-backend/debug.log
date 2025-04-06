@@ -1,0 +1,886 @@
+INFO 2025-04-06 05:36:27,442 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:36:46,791 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:38:25,644 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:38:39,197 views Starting book_ticket for concert ID 1
+INFO 2025-04-06 05:38:39,201 views Creating booking for user Shiva
+INFO 2025-04-06 05:38:39,209 views Updated available tickets for concert ID 1: 82
+INFO 2025-04-06 05:38:39,209 views Adding PDF elements
+INFO 2025-04-06 05:38:39,209 views Elements list: ['Spacer(1, 36.0)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'LiveTix Concert Ticket'\n'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=24, greek=0, italic=0, link=[], rise=0, text='LiveTix Concert Ticket', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Title'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 14.4)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Test Paragraph'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Test Paragraph', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph"]
+INFO 2025-04-06 05:38:39,210 views Building PDF with elements
+INFO 2025-04-06 05:38:39,212 views PDF built successfully
+INFO 2025-04-06 05:39:39,893 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:39:56,380 autoreload /Users/rahul/Desktop/projects/livetix/concerts/views.py changed, reloading.
+INFO 2025-04-06 05:39:56,741 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:40:15,275 views Starting book_ticket for concert ID 1
+INFO 2025-04-06 05:40:15,278 views Creating booking for user Shiva
+INFO 2025-04-06 05:40:15,281 views Updated available tickets for concert ID 1: 81
+INFO 2025-04-06 05:40:15,282 views Adding PDF elements
+INFO 2025-04-06 05:40:15,282 views Generating QR code
+INFO 2025-04-06 05:40:15,306 views Elements list: ['Spacer(1, 36.0)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'LiveTix Concert Ticket'\n'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=24, greek=0, italic=0, link=[], rise=0, text='LiveTix Concert Ticket', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Title'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 14.4)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Concert: New_Year'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Concert: New_Year', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Artist: Lil Jhola'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Artist: Lil Jhola', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Date: 2025-07-01 18:00'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Date: 2025-07-01 18:00', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Venue: old trafford'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Venue: old trafford', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Ticket Price: $200.00'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Ticket Price: $200.00', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Booked By: check'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Booked By: check', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Email: ch@gmail.com'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Email: ch@gmail.com', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 36.0)', '<reportlab.platypus.flowables.Image object at 0x10694b770>', 'Spacer(1, 36.0)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Thank you for booking with LiveTix!'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Thank you for booking with LiveTix!', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph"]
+INFO 2025-04-06 05:40:15,307 views Building PDF with elements
+INFO 2025-04-06 05:40:15,316 views PDF built successfully
+INFO 2025-04-06 05:41:57,461 autoreload /Users/rahul/Desktop/projects/livetix/concerts/views.py changed, reloading.
+INFO 2025-04-06 05:41:57,851 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:42:06,821 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:42:26,058 views Starting book_ticket for concert ID 2
+INFO 2025-04-06 05:42:26,060 views Creating booking for user Shiva
+INFO 2025-04-06 05:42:26,062 views Updated available tickets for concert ID 2: 81
+INFO 2025-04-06 05:42:26,062 views Set doc.onPage to <function book_ticket.<locals>.draw_page_background at 0x107bef7e0>
+INFO 2025-04-06 05:42:26,063 views Adding PDF elements
+INFO 2025-04-06 05:42:26,063 views Generating QR code
+INFO 2025-04-06 05:42:26,080 views Elements list: ['Spacer(1, 36.0)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'LiveTix Concert Ticket'\n'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=24, greek=0, italic=0, link=[], rise=0, text='LiveTix Concert Ticket', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Title'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 14.4)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Concert: weekend'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Concert: weekend', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Artist: Eminem'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Artist: Eminem', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Date: 2025-07-01 18:00'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Date: 2025-07-01 18:00', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Venue: o2'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Venue: o2', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Ticket Price: $700.00'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Ticket Price: $700.00', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Booked By: ramm'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Booked By: ramm', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Email: ramm@gmail.com'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Email: ramm@gmail.com', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 36.0)', '<reportlab.platypus.flowables.Image object at 0x107c09e80>', 'Spacer(1, 36.0)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Thank you for booking with LiveTix!'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Thank you for booking with LiveTix!', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph"]
+INFO 2025-04-06 05:42:26,081 views Building PDF with elements
+INFO 2025-04-06 05:42:26,088 views PDF built successfully
+INFO 2025-04-06 05:43:58,371 autoreload /Users/rahul/Desktop/projects/livetix/concerts/views.py changed, reloading.
+INFO 2025-04-06 05:43:58,750 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:44:08,843 views Starting book_ticket for concert ID 2
+INFO 2025-04-06 05:44:08,844 views Creating booking for user Shiva
+INFO 2025-04-06 05:44:08,846 views Updated available tickets for concert ID 2: 80
+INFO 2025-04-06 05:44:08,846 views Adding PDF elements
+INFO 2025-04-06 05:44:08,846 views Created title Paragraph: Paragraph(
+'caseSensitive': 1
+'encoding': 'utf8'
+'text': 'LiveTix Concert Ticket'
+'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=24, greek=0, italic=0, link=[], rise=0, text='LiveTix Concert Ticket', textColor=Color(0,0,0,1), us_lines=[])]
+'style': <ParagraphStyle 'Title'>
+'bulletText': None
+'debug': 0
+) #Paragraph
+INFO 2025-04-06 05:44:08,847 views Created concert title Paragraph: Paragraph(
+'caseSensitive': 1
+'encoding': 'utf8'
+'text': 'Concert: weekend'
+'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Concert: weekend', textColor=Color(0,0,0,1), us_lines=[])]
+'style': <ParagraphStyle 'Normal'>
+'bulletText': None
+'debug': 0
+) #Paragraph
+INFO 2025-04-06 05:44:08,847 views Generating QR code
+INFO 2025-04-06 05:44:08,862 views Created QR code Image: <reportlab.platypus.flowables.Image object at 0x103f4b770>
+INFO 2025-04-06 05:44:08,862 views Created thank you Paragraph: Paragraph(
+'caseSensitive': 1
+'encoding': 'utf8'
+'text': 'Thank you for booking with LiveTix!'
+'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Thank you for booking with LiveTix!', textColor=Color(0,0,0,1), us_lines=[])]
+'style': <ParagraphStyle 'Normal'>
+'bulletText': None
+'debug': 0
+) #Paragraph
+INFO 2025-04-06 05:44:08,863 views Elements list: ['Spacer(1, 36.0)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'LiveTix Concert Ticket'\n'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=24, greek=0, italic=0, link=[], rise=0, text='LiveTix Concert Ticket', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Title'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 14.4)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Concert: weekend'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Concert: weekend', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 36.0)', '<reportlab.platypus.flowables.Image object at 0x103f4b770>', 'Spacer(1, 36.0)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Thank you for booking with LiveTix!'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Thank you for booking with LiveTix!', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph"]
+INFO 2025-04-06 05:44:08,863 views Building PDF with elements
+INFO 2025-04-06 05:44:08,863 views Drawing page background
+INFO 2025-04-06 05:44:08,863 views Background drawn successfully
+INFO 2025-04-06 05:44:08,870 views PDF built successfully
+INFO 2025-04-06 05:44:19,457 autoreload /Users/rahul/Desktop/projects/livetix/concerts/views.py changed, reloading.
+INFO 2025-04-06 05:44:19,808 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:44:28,544 views Starting book_ticket for concert ID 1
+INFO 2025-04-06 05:44:28,546 views Creating booking for user Shiva
+INFO 2025-04-06 05:44:28,549 views Updated available tickets for concert ID 1: 80
+INFO 2025-04-06 05:44:28,549 views Set doc.onPage to <function book_ticket.<locals>.draw_page_background at 0x110ceb880>
+INFO 2025-04-06 05:44:28,549 views Adding PDF elements
+INFO 2025-04-06 05:44:28,550 views Generating QR code
+INFO 2025-04-06 05:44:28,566 views Elements list: ['Spacer(1, 36.0)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'LiveTix Concert Ticket'\n'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=24, greek=0, italic=0, link=[], rise=0, text='LiveTix Concert Ticket', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Title'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 14.4)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Concert: New_Year'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Concert: New_Year', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Artist: Lil Jhola'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Artist: Lil Jhola', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Date: 2025-07-01 18:00'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Date: 2025-07-01 18:00', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Venue: old trafford'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Venue: old trafford', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Ticket Price: $200.00'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Ticket Price: $200.00', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Booked By: we'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Booked By: we', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Email: we@gmail.com'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Email: we@gmail.com', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 36.0)', '<reportlab.platypus.flowables.Image object at 0x110a4b770>', 'Spacer(1, 36.0)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Thank you for booking with LiveTix!'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Thank you for booking with LiveTix!', textColor=Color(0,0,0,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph"]
+INFO 2025-04-06 05:44:28,566 views Building PDF with elements
+INFO 2025-04-06 05:44:28,575 views PDF built successfully
+INFO 2025-04-06 05:45:10,150 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:45:37,855 autoreload /Users/rahul/Desktop/projects/livetix/concerts/views.py changed, reloading.
+INFO 2025-04-06 05:45:38,344 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:46:12,310 views Starting book_ticket for concert ID 2
+INFO 2025-04-06 05:46:12,311 views Creating booking for user Shiva
+INFO 2025-04-06 05:46:12,314 views Updated available tickets for concert ID 2: 79
+INFO 2025-04-06 05:46:12,314 views Adding PDF elements
+INFO 2025-04-06 05:46:12,315 views Generating QR code
+INFO 2025-04-06 05:46:12,331 views Elements list: ['Spacer(1, 54.0)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'LiveTix Concert Ticket'\n'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=28, greek=0, italic=0, link=[], rise=0, text='LiveTix Concert Ticket', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Title'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 21.599999999999998)', "Table(\n rowHeights=[None, None, None, None, None, None, None],\n colWidths=[108.0, 216.0],\n[[Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Concert:'\n  'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Concert:', textColor=Color(1,1,1,1), us_lines=[])]\n  'style': <ParagraphStyle 'Label'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph,\n    Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'weekend'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='weekend', textColor=Color(1,1,1,1), us_lines=[])]\n  'style': <ParagraphStyle 'Normal'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph],\n   [Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Artist:'\n  'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Artist:', textColor=Color(1,1,1,1), us_lines=[])]\n  'style': <ParagraphStyle 'Label'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph,\n    Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Eminem'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Eminem', textColor=Color(1,1,1,1), us_lines=[])]\n  'style': <ParagraphStyle 'Normal'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph],\n   [Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Date:'\n  'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Date:', textColor=Color(1,1,1,1), us_lines=[])]\n  'style': <ParagraphStyle 'Label'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph,\n    Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': '2025-07-01 18:00'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='2025-07-01 18:00', textColor=Color(1,1,1,1), us_lines=[])]\n  'style': <ParagraphStyle 'Normal'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph],\n   [Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Venue:'\n  'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Venue:', textColor=Color(1,1,1,1), us_lines=[])]\n  'style': <ParagraphStyle 'Label'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph,\n    Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'o2'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='o2', textColor=Color(1,1,1,1), us_lines=[])]\n  'style': <ParagraphStyle 'Normal'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph],\n   [Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Ticket Price:'\n  'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Ticket Price:', textColor=Color(1,1,1,1), us_lines=[])]\n  'style': <ParagraphStyle 'Label'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph,\n    Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': '$700.00'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='$700.00', textColor=Color(1,1,1,1), us_lines=[])]\n  'style': <ParagraphStyle 'Normal'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph],\n   [Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Booked By:'\n  'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Booked By:', textColor=Color(1,1,1,1), us_lines=[])]\n  'style': <ParagraphStyle 'Label'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph,\n    Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'me'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='me', textColor=Color(1,1,1,1), us_lines=[])]\n  'style': <ParagraphStyle 'Normal'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph],\n   [Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Email:'\n  'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Email:', textColor=Color(1,1,1,1), us_lines=[])]\n  'style': <ParagraphStyle 'Label'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph,\n    Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'em@gmail.com'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='em@gmail.com', textColor=Color(1,1,1,1), us_lines=[])]\n  'style': <ParagraphStyle 'Normal'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph]]\n) # end table", 'Spacer(1, 36.0)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Scan to Verify'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Scan to Verify', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 7.2)', 'Table(\n rowHeights=[None],\n colWidths=[120],\n[[<reportlab.platypus.flowables.Image object at 0x11814b770>]]\n) # end table', 'Spacer(1, 36.0)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'Thank you for booking with LiveTix!'\n'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=12, greek=0, italic=0, link=[], rise=0, text='Thank you for booking with LiveTix!', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Normal'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 36.0)']
+INFO 2025-04-06 05:46:12,332 views Building PDF with elements
+INFO 2025-04-06 05:46:12,332 views Drawing page background
+INFO 2025-04-06 05:46:12,332 views Background drawn successfully
+INFO 2025-04-06 05:46:12,340 views PDF built successfully
+INFO 2025-04-06 05:51:26,149 autoreload /Users/rahul/Desktop/projects/livetix/concerts/views.py changed, reloading.
+INFO 2025-04-06 05:51:26,499 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:52:24,048 autoreload /Users/rahul/Desktop/projects/livetix/concerts/views.py changed, reloading.
+INFO 2025-04-06 05:52:24,402 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:52:38,135 views Starting book_ticket for concert ID 1
+INFO 2025-04-06 05:52:38,137 views Creating booking for user Shiva
+INFO 2025-04-06 05:52:38,140 views Updated available tickets for concert ID 1: 79
+INFO 2025-04-06 05:52:38,141 views Adding PDF elements
+INFO 2025-04-06 05:52:38,142 views Generating QR code
+INFO 2025-04-06 05:52:38,165 views Elements list: ['<reportlab.platypus.flowables.Image object at 0x108f08ec0>', 'Spacer(1, 14.4)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'LiveTix Concert Ticket'\n'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=24, greek=0, italic=0, link=[], rise=0, text='LiveTix Concert Ticket', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Title'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 21.599999999999998)', "Table(\n rowHeights=[None],\n colWidths=[324.0],\n[[[Table(\n   rowHeights=[None, None, None, None, None, None, None],\n   colWidths=[86.39999999999999, 165.6],\n  [[Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Concert'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Concert', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'New_Year'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='New_Year', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Artist'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Artist', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Lil Jhola'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Lil Jhola', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Date'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Date', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '2025-07-01 18:00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='2025-07-01 18:00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Venue'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Venue', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'old trafford'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='old trafford', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Price'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Price', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '$200.00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='$200.00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Booked By'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Booked By', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'eminem'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='eminem', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Email'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Email', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'em@gmail.com'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='em@gmail.com', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Scan to Verify'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Scan to Verify', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'SmallText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph,\n     Spacer(1, 7.2),\n     Table(\n   rowHeights=[None],\n   colWidths=[100],\n  [[<reportlab.platypus.flowables.Image object at 0x108f10910>]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Thank you for choosing LiveTix!'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Thank you for choosing LiveTix!', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'SmallText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph]]]\n) # end table"]
+INFO 2025-04-06 05:52:38,165 views Building PDF with elements
+INFO 2025-04-06 05:52:38,165 views Drawing page background
+INFO 2025-04-06 05:52:38,166 views Background drawn successfully
+ERROR 2025-04-06 05:52:38,179 views Error in book_ticket: 
+fileName='~/Desktop/projects/livetix/static/LT.png' identity=[ImageReader@0x108f11450 filename='~/Desktop/projects/livetix/static/LT.png'] Cannot open resource "~/Desktop/projects/livetix/static/LT.png"
+ERROR 2025-04-06 05:52:38,179 log Internal Server Error: /api/concerts/1/book/
+INFO 2025-04-06 05:53:18,970 autoreload /Users/rahul/Desktop/projects/livetix/concerts/views.py changed, reloading.
+INFO 2025-04-06 05:53:19,331 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:53:22,487 views Starting book_ticket for concert ID 1
+INFO 2025-04-06 05:53:22,489 views Creating booking for user Shiva
+INFO 2025-04-06 05:53:22,491 views Updated available tickets for concert ID 1: 79
+INFO 2025-04-06 05:53:22,491 views Adding PDF elements
+INFO 2025-04-06 05:53:22,492 views Generating QR code
+INFO 2025-04-06 05:53:22,506 views Elements list: ['<reportlab.platypus.flowables.Image object at 0x1087ac6e0>', 'Spacer(1, 14.4)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'LiveTix Concert Ticket'\n'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=24, greek=0, italic=0, link=[], rise=0, text='LiveTix Concert Ticket', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Title'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 21.599999999999998)', "Table(\n rowHeights=[None],\n colWidths=[324.0],\n[[[Table(\n   rowHeights=[None, None, None, None, None, None, None],\n   colWidths=[86.39999999999999, 165.6],\n  [[Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Concert'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Concert', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'New_Year'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='New_Year', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Artist'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Artist', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Lil Jhola'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Lil Jhola', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Date'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Date', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '2025-07-01 18:00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='2025-07-01 18:00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Venue'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Venue', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'old trafford'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='old trafford', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Price'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Price', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '$200.00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='$200.00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Booked By'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Booked By', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'eminem'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='eminem', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Email'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Email', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'em@gmail.com'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='em@gmail.com', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Scan to Verify'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Scan to Verify', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'SmallText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph,\n     Spacer(1, 7.2),\n     Table(\n   rowHeights=[None],\n   colWidths=[100],\n  [[<reportlab.platypus.flowables.Image object at 0x10860b610>]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Thank you for choosing LiveTix!'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Thank you for choosing LiveTix!', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'SmallText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph]]]\n) # end table"]
+INFO 2025-04-06 05:53:22,506 views Building PDF with elements
+INFO 2025-04-06 05:53:22,507 views Drawing page background
+INFO 2025-04-06 05:53:22,507 views Background drawn successfully
+ERROR 2025-04-06 05:53:22,516 views Error in book_ticket: 
+fileName='~/Desktop/projects/livetix/static/LT.png' identity=[ImageReader@0x1087a7610 filename='~/Desktop/projects/livetix/static/LT.png'] Cannot open resource "~/Desktop/projects/livetix/static/LT.png"
+ERROR 2025-04-06 05:53:22,517 log Internal Server Error: /api/concerts/1/book/
+INFO 2025-04-06 05:53:23,227 views Starting book_ticket for concert ID 1
+INFO 2025-04-06 05:53:23,231 views Creating booking for user Shiva
+INFO 2025-04-06 05:53:23,237 views Updated available tickets for concert ID 1: 79
+INFO 2025-04-06 05:53:23,237 views Adding PDF elements
+INFO 2025-04-06 05:53:23,238 views Generating QR code
+INFO 2025-04-06 05:53:23,249 views Elements list: ['<reportlab.platypus.flowables.Image object at 0x108734690>', 'Spacer(1, 14.4)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'LiveTix Concert Ticket'\n'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=24, greek=0, italic=0, link=[], rise=0, text='LiveTix Concert Ticket', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Title'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 21.599999999999998)', "Table(\n rowHeights=[None],\n colWidths=[324.0],\n[[[Table(\n   rowHeights=[None, None, None, None, None, None, None],\n   colWidths=[86.39999999999999, 165.6],\n  [[Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Concert'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Concert', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'New_Year'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='New_Year', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Artist'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Artist', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Lil Jhola'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Lil Jhola', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Date'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Date', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '2025-07-01 18:00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='2025-07-01 18:00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Venue'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Venue', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'old trafford'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='old trafford', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Price'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Price', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '$200.00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='$200.00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Booked By'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Booked By', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'eminem'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='eminem', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Email'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Email', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'em@gmail.com'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='em@gmail.com', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Scan to Verify'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Scan to Verify', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'SmallText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph,\n     Spacer(1, 7.2),\n     Table(\n   rowHeights=[None],\n   colWidths=[100],\n  [[<reportlab.platypus.flowables.Image object at 0x10859eb10>]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Thank you for choosing LiveTix!'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Thank you for choosing LiveTix!', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'SmallText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph]]]\n) # end table"]
+INFO 2025-04-06 05:53:23,250 views Building PDF with elements
+INFO 2025-04-06 05:53:23,250 views Drawing page background
+INFO 2025-04-06 05:53:23,251 views Background drawn successfully
+ERROR 2025-04-06 05:53:23,252 views Error in book_ticket: 
+fileName='~/Desktop/projects/livetix/static/LT.png' identity=[ImageReader@0x1087f0c30 filename='~/Desktop/projects/livetix/static/LT.png'] Cannot open resource "~/Desktop/projects/livetix/static/LT.png"
+ERROR 2025-04-06 05:53:23,252 log Internal Server Error: /api/concerts/1/book/
+INFO 2025-04-06 05:55:10,045 autoreload /Users/rahul/Desktop/projects/livetix/concerts/views.py changed, reloading.
+INFO 2025-04-06 05:55:10,415 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:55:13,530 autoreload /Users/rahul/Desktop/projects/livetix/concerts/views.py changed, reloading.
+INFO 2025-04-06 05:55:13,776 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:55:17,684 views Starting book_ticket for concert ID 1
+INFO 2025-04-06 05:55:17,686 views Creating booking for user Shiva
+INFO 2025-04-06 05:55:17,690 views Updated available tickets for concert ID 1: 79
+INFO 2025-04-06 05:55:17,690 views Adding PDF elements
+ERROR 2025-04-06 05:55:17,691 views Error in book_ticket: name 'os' is not defined
+ERROR 2025-04-06 05:55:17,692 log Internal Server Error: /api/concerts/1/book/
+INFO 2025-04-06 05:55:32,374 autoreload /Users/rahul/Desktop/projects/livetix/concerts/views.py changed, reloading.
+INFO 2025-04-06 05:55:32,728 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:55:34,603 views Starting book_ticket for concert ID 1
+INFO 2025-04-06 05:55:34,604 views Creating booking for user Shiva
+INFO 2025-04-06 05:55:34,606 views Updated available tickets for concert ID 1: 79
+INFO 2025-04-06 05:55:34,606 views Adding PDF elements
+INFO 2025-04-06 05:55:34,606 views Generating QR code
+INFO 2025-04-06 05:55:34,623 views Elements list: ['<reportlab.platypus.flowables.Image object at 0x1097086e0>', 'Spacer(1, 14.4)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'LiveTix Concert Ticket'\n'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=24, greek=0, italic=0, link=[], rise=0, text='LiveTix Concert Ticket', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Title'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 21.599999999999998)', "Table(\n rowHeights=[None],\n colWidths=[324.0],\n[[[Table(\n   rowHeights=[None, None, None, None, None, None, None],\n   colWidths=[86.39999999999999, 165.6],\n  [[Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Concert'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Concert', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'New_Year'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='New_Year', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Artist'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Artist', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Lil Jhola'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Lil Jhola', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Date'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Date', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '2025-07-01 18:00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='2025-07-01 18:00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Venue'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Venue', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'old trafford'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='old trafford', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Price'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Price', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '$200.00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='$200.00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Booked By'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Booked By', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'eminem'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='eminem', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Email'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Email', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'em@gmail.com'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='em@gmail.com', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Scan to Verify'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Scan to Verify', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'SmallText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph,\n     Spacer(1, 7.2),\n     Table(\n   rowHeights=[None],\n   colWidths=[100],\n  [[<reportlab.platypus.flowables.Image object at 0x109363610>]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Thank you for choosing LiveTix!'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Thank you for choosing LiveTix!', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'SmallText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph]]]\n) # end table"]
+INFO 2025-04-06 05:55:34,624 views Building PDF with elements
+INFO 2025-04-06 05:55:34,624 views Drawing page background
+INFO 2025-04-06 05:55:34,624 views Background drawn successfully
+INFO 2025-04-06 05:55:34,635 views PDF built successfully
+INFO 2025-04-06 05:56:28,275 autoreload /Users/rahul/Desktop/projects/livetix/concerts/views.py changed, reloading.
+INFO 2025-04-06 05:56:28,627 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:56:39,803 views Starting book_ticket for concert ID 2
+INFO 2025-04-06 05:56:39,805 views Creating booking for user Shiva
+INFO 2025-04-06 05:56:39,808 views Updated available tickets for concert ID 2: 78
+INFO 2025-04-06 05:56:39,808 views Adding PDF elements
+INFO 2025-04-06 05:56:39,810 views Generating QR code
+ERROR 2025-04-06 05:56:39,826 views Error in book_ticket: name 'bold_text_style' is not defined
+ERROR 2025-04-06 05:56:39,827 log Internal Server Error: /api/concerts/2/book/
+INFO 2025-04-06 05:58:18,330 autoreload /Users/rahul/Desktop/projects/livetix/concerts/views.py changed, reloading.
+INFO 2025-04-06 05:58:18,657 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:58:22,210 views Starting book_ticket for concert ID 2
+INFO 2025-04-06 05:58:22,211 views Creating booking for user Shiva
+INFO 2025-04-06 05:58:22,213 views Updated available tickets for concert ID 2: 78
+INFO 2025-04-06 05:58:22,213 views Adding PDF elements
+INFO 2025-04-06 05:58:22,214 views Generating QR code
+ERROR 2025-04-06 05:58:22,229 views Error in book_ticket: name 'bold_text_style' is not defined
+ERROR 2025-04-06 05:58:22,229 log Internal Server Error: /api/concerts/2/book/
+INFO 2025-04-06 05:58:23,261 views Starting book_ticket for concert ID 2
+INFO 2025-04-06 05:58:23,263 views Creating booking for user Shiva
+INFO 2025-04-06 05:58:23,265 views Updated available tickets for concert ID 2: 78
+INFO 2025-04-06 05:58:23,266 views Adding PDF elements
+INFO 2025-04-06 05:58:23,267 views Generating QR code
+ERROR 2025-04-06 05:58:23,272 views Error in book_ticket: name 'bold_text_style' is not defined
+ERROR 2025-04-06 05:58:23,272 log Internal Server Error: /api/concerts/2/book/
+INFO 2025-04-06 05:59:35,631 autoreload /Users/rahul/Desktop/projects/livetix/concerts/views.py changed, reloading.
+INFO 2025-04-06 05:59:36,098 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 05:59:38,681 views Starting book_ticket for concert ID 2
+INFO 2025-04-06 05:59:38,682 views Creating booking for user Shiva
+INFO 2025-04-06 05:59:38,686 views Updated available tickets for concert ID 2: 78
+INFO 2025-04-06 05:59:38,686 views Adding PDF elements
+INFO 2025-04-06 05:59:38,687 views Generating QR code
+INFO 2025-04-06 05:59:38,702 views Elements list: ['<reportlab.platypus.flowables.Image object at 0x115108590>', 'Spacer(1, 14.4)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'LiveTix Concert Ticket'\n'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=24, greek=0, italic=0, link=[], rise=0, text='LiveTix Concert Ticket', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Title'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 21.599999999999998)', "Table(\n rowHeights=[None],\n colWidths=[324.0],\n[[[Table(\n   rowHeights=[None, None, None, None, None, None, None],\n   colWidths=[86.39999999999999, 165.6],\n  [[Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Concert'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Concert', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'weekend'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='weekend', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Artist'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Artist', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Eminem'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Eminem', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Date'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Date', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '2025-07-01 18:00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='2025-07-01 18:00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Venue'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Venue', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'o2'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='o2', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Price'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Price', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '$700.00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='$700.00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Booked By'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Booked By', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'taylor'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='taylor', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Email'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Email', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'she@gmail.com'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='she@gmail.com', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Scan to Verify'\n  'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Scan to Verify', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'BoldText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph,\n     Spacer(1, 7.2),\n     Table(\n   rowHeights=[None],\n   colWidths=[100],\n  [[<reportlab.platypus.flowables.Image object at 0x11510ec10>]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Thank you for choosing LiveTix!'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Thank you for choosing LiveTix!', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'SmallText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph]]]\n) # end table"]
+INFO 2025-04-06 05:59:38,703 views Building PDF with elements
+INFO 2025-04-06 05:59:38,703 views Drawing page background
+INFO 2025-04-06 05:59:38,703 views Background drawn successfully
+INFO 2025-04-06 05:59:38,713 views PDF built successfully
+WARNING 2025-04-06 06:07:51,521 log Unauthorized: /api/concerts/
+WARNING 2025-04-06 06:07:51,537 log Unauthorized: /api/concerts/
+ERROR 2025-04-06 06:07:51,556 log Internal Server Error: /api/token/refresh/
+Traceback (most recent call last):
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework_simplejwt/views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework_simplejwt/serializers.py", line 116, in validate
+    user := get_user_model().objects.get(
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        **{api_settings.USER_ID_FIELD: user_id}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 633, in get
+    raise self.model.DoesNotExist(
+        "%s matching query does not exist." % self.model._meta.object_name
+    )
+django.contrib.auth.models.User.DoesNotExist: User matching query does not exist.
+ERROR 2025-04-06 06:07:51,575 log Internal Server Error: /api/token/refresh/
+Traceback (most recent call last):
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework_simplejwt/views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework_simplejwt/serializers.py", line 116, in validate
+    user := get_user_model().objects.get(
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        **{api_settings.USER_ID_FIELD: user_id}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 633, in get
+    raise self.model.DoesNotExist(
+        "%s matching query does not exist." % self.model._meta.object_name
+    )
+django.contrib.auth.models.User.DoesNotExist: User matching query does not exist.
+INFO 2025-04-06 06:16:07,485 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:21:10,137 autoreload /Users/rahul/Desktop/projects/livetix/concerts/models.py changed, reloading.
+INFO 2025-04-06 06:21:10,472 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:21:34,204 autoreload /Users/rahul/Desktop/projects/livetix/ticket_booking/settings.py changed, reloading.
+INFO 2025-04-06 06:21:34,496 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:21:41,753 autoreload /Users/rahul/Desktop/projects/livetix/ticket_booking/settings.py changed, reloading.
+INFO 2025-04-06 06:21:41,936 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:21:49,156 autoreload /Users/rahul/Desktop/projects/livetix/ticket_booking/settings.py changed, reloading.
+INFO 2025-04-06 06:21:49,370 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:21:53,558 autoreload /Users/rahul/Desktop/projects/livetix/ticket_booking/settings.py changed, reloading.
+INFO 2025-04-06 06:21:53,810 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:22:18,621 autoreload /Users/rahul/Desktop/projects/livetix/ticket_booking/settings.py changed, reloading.
+INFO 2025-04-06 06:23:06,811 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:23:15,196 autoreload /Users/rahul/Desktop/projects/livetix/ticket_booking/settings.py changed, reloading.
+INFO 2025-04-06 06:23:15,443 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:23:54,630 autoreload /Users/rahul/Desktop/projects/livetix/ticket_booking/urls.py changed, reloading.
+INFO 2025-04-06 06:23:54,909 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:23:58,137 autoreload /Users/rahul/Desktop/projects/livetix/ticket_booking/urls.py changed, reloading.
+INFO 2025-04-06 06:23:58,386 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:24:19,030 autoreload /Users/rahul/Desktop/projects/livetix/ticket_booking/urls.py changed, reloading.
+INFO 2025-04-06 06:24:19,280 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:24:21,473 autoreload /Users/rahul/Desktop/projects/livetix/ticket_booking/urls.py changed, reloading.
+INFO 2025-04-06 06:24:21,713 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:25:21,446 autoreload /Users/rahul/Desktop/projects/livetix/concerts/admin.py changed, reloading.
+INFO 2025-04-06 06:25:21,696 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:25:58,769 autoreload /Users/rahul/Desktop/projects/livetix/concerts/serializers.py changed, reloading.
+INFO 2025-04-06 06:25:59,008 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:28:59,192 views Starting register
+INFO 2025-04-06 06:28:59,484 views User Rahul created successfully
+ERROR 2025-04-06 06:28:59,536 log Internal Server Error: /api/concerts/
+Traceback (most recent call last):
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+psycopg2.errors.UndefinedColumn: column concerts_concert.artist_image does not exist
+LINE 1: ...t_price", "concerts_concert"."available_tickets", "concerts_...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/concerts/views.py", line 31, in concert_list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+                                                   ^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 1935, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/sql/compiler.py", line 1622, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+django.db.utils.ProgrammingError: column concerts_concert.artist_image does not exist
+LINE 1: ...t_price", "concerts_concert"."available_tickets", "concerts_...
+                                                             ^
+
+ERROR 2025-04-06 06:28:59,565 log Internal Server Error: /api/concerts/
+Traceback (most recent call last):
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+psycopg2.errors.UndefinedColumn: column concerts_concert.artist_image does not exist
+LINE 1: ...t_price", "concerts_concert"."available_tickets", "concerts_...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/concerts/views.py", line 31, in concert_list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+                                                   ^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 1935, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/sql/compiler.py", line 1622, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+django.db.utils.ProgrammingError: column concerts_concert.artist_image does not exist
+LINE 1: ...t_price", "concerts_concert"."available_tickets", "concerts_...
+                                                             ^
+
+ERROR 2025-04-06 06:29:18,446 log Internal Server Error: /api/concerts/
+Traceback (most recent call last):
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+psycopg2.errors.UndefinedColumn: column concerts_concert.artist_image does not exist
+LINE 1: ...t_price", "concerts_concert"."available_tickets", "concerts_...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/concerts/views.py", line 31, in concert_list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+                                                   ^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 1935, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/sql/compiler.py", line 1622, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+django.db.utils.ProgrammingError: column concerts_concert.artist_image does not exist
+LINE 1: ...t_price", "concerts_concert"."available_tickets", "concerts_...
+                                                             ^
+
+ERROR 2025-04-06 06:29:30,807 log Internal Server Error: /api/concerts/
+Traceback (most recent call last):
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+psycopg2.errors.UndefinedColumn: column concerts_concert.artist_image does not exist
+LINE 1: ...t_price", "concerts_concert"."available_tickets", "concerts_...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/concerts/views.py", line 31, in concert_list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+                                                   ^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 1935, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/sql/compiler.py", line 1622, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+django.db.utils.ProgrammingError: column concerts_concert.artist_image does not exist
+LINE 1: ...t_price", "concerts_concert"."available_tickets", "concerts_...
+                                                             ^
+
+ERROR 2025-04-06 06:29:35,299 log Internal Server Error: /api/concerts/
+Traceback (most recent call last):
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+psycopg2.errors.UndefinedColumn: column concerts_concert.artist_image does not exist
+LINE 1: ...t_price", "concerts_concert"."available_tickets", "concerts_...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/concerts/views.py", line 31, in concert_list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+                                                   ^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 1935, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/sql/compiler.py", line 1622, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+django.db.utils.ProgrammingError: column concerts_concert.artist_image does not exist
+LINE 1: ...t_price", "concerts_concert"."available_tickets", "concerts_...
+                                                             ^
+
+ERROR 2025-04-06 06:29:39,990 log Internal Server Error: /api/concerts/
+Traceback (most recent call last):
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+psycopg2.errors.UndefinedColumn: column concerts_concert.artist_image does not exist
+LINE 1: ...t_price", "concerts_concert"."available_tickets", "concerts_...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/rahul/Desktop/projects/livetix/concerts/views.py", line 31, in concert_list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/rest_framework/serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+                                                   ^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 1935, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/models/sql/compiler.py", line 1622, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/rahul/Desktop/projects/livetix/venv/lib/python3.13/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+django.db.utils.ProgrammingError: column concerts_concert.artist_image does not exist
+LINE 1: ...t_price", "concerts_concert"."available_tickets", "concerts_...
+                                                             ^
+
+INFO 2025-04-06 06:30:19,324 autoreload /Users/rahul/Desktop/projects/livetix/concerts/serializers.py changed, reloading.
+INFO 2025-04-06 06:30:19,718 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:30:28,129 autoreload /Users/rahul/Desktop/projects/livetix/concerts/models.py changed, reloading.
+INFO 2025-04-06 06:30:28,400 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:30:34,697 autoreload /Users/rahul/Desktop/projects/livetix/concerts/models.py changed, reloading.
+INFO 2025-04-06 06:30:34,928 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:30:50,460 autoreload /Users/rahul/Desktop/projects/livetix/ticket_booking/urls.py changed, reloading.
+INFO 2025-04-06 06:30:50,691 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:30:56,983 autoreload /Users/rahul/Desktop/projects/livetix/ticket_booking/settings.py changed, reloading.
+INFO 2025-04-06 06:30:57,224 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:31:09,666 autoreload /Users/rahul/Desktop/projects/livetix/concerts/admin.py changed, reloading.
+INFO 2025-04-06 06:31:10,006 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:31:18,376 autoreload /Users/rahul/Desktop/projects/livetix/concerts/admin.py changed, reloading.
+INFO 2025-04-06 06:31:18,713 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:31:39,510 views Starting book_ticket for concert ID 1
+INFO 2025-04-06 06:31:39,512 views Creating booking for user Rahul
+INFO 2025-04-06 06:31:39,514 views Updated available tickets for concert ID 1: 99
+INFO 2025-04-06 06:31:39,515 views Adding PDF elements
+INFO 2025-04-06 06:31:39,516 views Generating QR code
+INFO 2025-04-06 06:31:39,540 views Elements list: ['<reportlab.platypus.flowables.Image object at 0x10b904d70>', 'Spacer(1, 14.4)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'LiveTix Concert Ticket'\n'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=24, greek=0, italic=0, link=[], rise=0, text='LiveTix Concert Ticket', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Title'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 21.599999999999998)', "Table(\n rowHeights=[None],\n colWidths=[324.0],\n[[[Table(\n   rowHeights=[None, None, None, None, None, None, None],\n   colWidths=[86.39999999999999, 165.6],\n  [[Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Concert'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Concert', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'New_Year'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='New_Year', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Artist'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Artist', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Lil Jhola'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Lil Jhola', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Date'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Date', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '2025-07-01 18:00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='2025-07-01 18:00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Venue'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Venue', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'old trafford'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='old trafford', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Price'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Price', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '$200.00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='$200.00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Booked By'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Booked By', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Rahul'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Rahul', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Email'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Email', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'rahul@gmail.com'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='rahul@gmail.com', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Scan to Verify'\n  'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Scan to Verify', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'BoldText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph,\n     Spacer(1, 7.2),\n     Table(\n   rowHeights=[None],\n   colWidths=[100],\n  [[<reportlab.platypus.flowables.Image object at 0x10b9bc910>]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Thank you for choosing LiveTix!'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Thank you for choosing LiveTix!', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'SmallText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph]]]\n) # end table"]
+INFO 2025-04-06 06:31:39,541 views Building PDF with elements
+INFO 2025-04-06 06:31:39,542 views Drawing page background
+INFO 2025-04-06 06:31:39,542 views Background drawn successfully
+INFO 2025-04-06 06:31:39,554 views PDF built successfully
+WARNING 2025-04-06 06:37:16,576 log Not Found: /api/booking_history/
+WARNING 2025-04-06 06:37:16,580 log Not Found: /api/booking_history/
+WARNING 2025-04-06 06:37:18,958 log Not Found: /api/booking_history/
+WARNING 2025-04-06 06:37:18,961 log Not Found: /api/booking_history/
+WARNING 2025-04-06 06:37:20,021 log Not Found: /api/booking_history/
+WARNING 2025-04-06 06:37:20,026 log Not Found: /api/booking_history/
+WARNING 2025-04-06 06:37:40,315 log Not Found: /api/booking_history/
+WARNING 2025-04-06 06:37:40,320 log Not Found: /api/booking_history/
+INFO 2025-04-06 06:40:53,401 autoreload /Users/rahul/Desktop/projects/livetix/concerts/urls.py changed, reloading.
+INFO 2025-04-06 06:40:53,780 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:43:44,709 autoreload /Users/rahul/Desktop/projects/livetix/concerts/views.py changed, reloading.
+INFO 2025-04-06 06:43:45,040 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:43:52,683 views Starting download_ticket for booking ID 44
+INFO 2025-04-06 06:43:52,686 views Adding PDF elements
+INFO 2025-04-06 06:43:52,687 views Generating QR code
+INFO 2025-04-06 06:43:52,706 views Elements list: ['<reportlab.platypus.flowables.Image object at 0x105e69400>', 'Spacer(1, 14.4)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'LiveTix Concert Ticket'\n'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=24, greek=0, italic=0, link=[], rise=0, text='LiveTix Concert Ticket', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Title'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 21.599999999999998)', "Table(\n rowHeights=[None],\n colWidths=[324.0],\n[[[Table(\n   rowHeights=[None, None, None, None, None, None, None],\n   colWidths=[86.39999999999999, 165.6],\n  [[Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Concert'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Concert', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'New_Year'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='New_Year', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Artist'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Artist', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Lil Jhola'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Lil Jhola', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Date'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Date', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '2025-07-01 18:00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='2025-07-01 18:00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Venue'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Venue', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'old trafford'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='old trafford', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Price'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Price', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '$200.00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='$200.00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Booked By'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Booked By', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Rahul'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Rahul', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Email'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Email', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'rahul@gmail.com'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='rahul@gmail.com', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Scan to Verify'\n  'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Scan to Verify', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'BoldText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph,\n     Spacer(1, 7.2),\n     Table(\n   rowHeights=[None],\n   colWidths=[100],\n  [[<reportlab.platypus.flowables.Image object at 0x105e6dd10>]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Thank you for choosing LiveTix!'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Thank you for choosing LiveTix!', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'SmallText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph]]]\n) # end table"]
+INFO 2025-04-06 06:43:52,707 views Building PDF with elements
+INFO 2025-04-06 06:43:52,707 views Drawing page background
+INFO 2025-04-06 06:43:52,707 views Background drawn successfully
+INFO 2025-04-06 06:43:52,719 views PDF built successfully
+INFO 2025-04-06 06:48:20,564 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:49:39,749 autoreload /Users/rahul/Desktop/projects/livetix/concerts/views.py changed, reloading.
+INFO 2025-04-06 06:49:40,115 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:50:04,178 autoreload /Users/rahul/Desktop/projects/livetix/concerts/urls.py changed, reloading.
+INFO 2025-04-06 06:50:04,544 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 06:50:54,360 views Starting cancel_booking for booking ID 44
+INFO 2025-04-06 06:50:54,365 views Incremented available tickets for concert ID 1: 100
+INFO 2025-04-06 06:50:54,367 views Booking ID 44 canceled successfully
+WARNING 2025-04-06 07:18:29,393 log Unauthorized: /api/token/
+INFO 2025-04-06 07:43:44,345 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 07:44:13,142 views Starting register
+INFO 2025-04-06 07:44:13,443 views User Rahul created successfully
+INFO 2025-04-06 07:44:32,257 views Starting book_ticket for concert ID 2
+INFO 2025-04-06 07:44:32,260 views Creating booking for user Rahul
+INFO 2025-04-06 07:44:32,262 views Updated available tickets for concert ID 2: 99
+INFO 2025-04-06 07:44:32,263 views Adding PDF elements
+INFO 2025-04-06 07:44:32,264 views Generating QR code
+INFO 2025-04-06 07:44:32,296 views Elements list: ['<reportlab.platypus.flowables.Image object at 0x103f09be0>', 'Spacer(1, 14.4)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'LiveTix Concert Ticket'\n'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=24, greek=0, italic=0, link=[], rise=0, text='LiveTix Concert Ticket', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Title'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 21.599999999999998)', "Table(\n rowHeights=[None],\n colWidths=[324.0],\n[[[Table(\n   rowHeights=[None, None, None, None, None, None, None],\n   colWidths=[86.39999999999999, 165.6],\n  [[Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Concert'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Concert', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'weekend'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='weekend', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Artist'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Artist', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Eminem'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Eminem', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Date'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Date', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '2025-07-01 18:00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='2025-07-01 18:00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Venue'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Venue', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'o2'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='o2', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Price'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Price', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '$700.00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='$700.00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Booked By'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Booked By', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Rahul'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Rahul', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Email'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Email', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'rahul@gmail.com'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='rahul@gmail.com', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Scan to Verify'\n  'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Scan to Verify', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'BoldText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph,\n     Spacer(1, 7.2),\n     Table(\n   rowHeights=[None],\n   colWidths=[100],\n  [[<reportlab.platypus.flowables.Image object at 0x103f625d0>]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Thank you for choosing LiveTix!'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Thank you for choosing LiveTix!', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'SmallText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph]]]\n) # end table"]
+INFO 2025-04-06 07:44:32,296 views Building PDF with elements
+INFO 2025-04-06 07:44:32,297 views Drawing page background
+INFO 2025-04-06 07:44:32,297 views Background drawn successfully
+INFO 2025-04-06 07:44:32,311 views PDF built successfully
+INFO 2025-04-06 07:44:48,509 views Starting download_ticket for booking ID 45
+INFO 2025-04-06 07:44:48,513 views Adding PDF elements
+INFO 2025-04-06 07:44:48,514 views Generating QR code
+INFO 2025-04-06 07:44:48,528 views Elements list: ['<reportlab.platypus.flowables.Image object at 0x103f63d90>', 'Spacer(1, 14.4)', "Paragraph(\n'caseSensitive': 1\n'encoding': 'utf8'\n'text': 'LiveTix Concert Ticket'\n'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=24, greek=0, italic=0, link=[], rise=0, text='LiveTix Concert Ticket', textColor=Color(1,1,1,1), us_lines=[])]\n'style': <ParagraphStyle 'Title'>\n'bulletText': None\n'debug': 0\n) #Paragraph", 'Spacer(1, 21.599999999999998)', "Table(\n rowHeights=[None],\n colWidths=[324.0],\n[[[Table(\n   rowHeights=[None, None, None, None, None, None, None],\n   colWidths=[86.39999999999999, 165.6],\n  [[Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Concert'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Concert', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'weekend'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='weekend', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Artist'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Artist', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Eminem'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Eminem', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Date'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Date', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '2025-07-01 18:00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='2025-07-01 18:00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Venue'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Venue', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'o2'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='o2', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Price'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Price', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': '$700.00'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='$700.00', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Booked By'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Booked By', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Rahul'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Rahul', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph],\n     [Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'Email'\n    'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=11, greek=0, italic=0, link=[], rise=0, text='Email', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Label'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph,\n      Paragraph(\n    'caseSensitive': 1\n    'encoding': 'utf8'\n    'text': 'rahul@gmail.com'\n    'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=11, greek=0, italic=0, link=[], rise=0, text='rahul@gmail.com', textColor=Color(0,0,0,1), us_lines=[])]\n    'style': <ParagraphStyle 'Value'>\n    'bulletText': None\n    'debug': 0\n    ) #Paragraph]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Scan to Verify'\n  'frags': [ParaFrag(__tag__='para', bold=1, fontName='Helvetica-Bold', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Scan to Verify', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'BoldText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph,\n     Spacer(1, 7.2),\n     Table(\n   rowHeights=[None],\n   colWidths=[100],\n  [[<reportlab.platypus.flowables.Image object at 0x103ea1940>]]\n  ) # end table,\n     Spacer(1, 21.599999999999998),\n     Paragraph(\n  'caseSensitive': 1\n  'encoding': 'utf8'\n  'text': 'Thank you for choosing LiveTix!'\n  'frags': [ParaFrag(__tag__='para', bold=0, fontName='Helvetica', fontSize=10, greek=0, italic=0, link=[], rise=0, text='Thank you for choosing LiveTix!', textColor=Color(0,0,0,1), us_lines=[])]\n  'style': <ParagraphStyle 'SmallText'>\n  'bulletText': None\n  'debug': 0\n  ) #Paragraph]]]\n) # end table"]
+INFO 2025-04-06 07:44:48,530 views Building PDF with elements
+INFO 2025-04-06 07:44:48,531 views Drawing page background
+INFO 2025-04-06 07:44:48,531 views Background drawn successfully
+INFO 2025-04-06 07:44:48,547 views PDF built successfully
+INFO 2025-04-06 07:45:39,099 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 07:45:56,193 autoreload Watching for file changes with StatReloader
+INFO 2025-04-06 07:51:11,522 autoreload Watching for file changes with StatReloader
+WARNING 2025-04-06 07:51:13,807 log Not Found: /api/Login/
+WARNING 2025-04-06 07:51:25,866 log Not Found: /api/concerts/Login/

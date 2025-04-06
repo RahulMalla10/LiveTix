@@ -1,0 +1,190 @@
+/* Login Page Custom Styles */
+.login-container {
+  background: linear-gradient(135deg, #4a00e0, #8e2de2);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+.login-card {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 20px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  max-width: 900px;
+  width: 100%;
+  display: flex;
+}
+
+.login-illustration {
+  background: url('https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80') no-repeat center center;
+  background-size: cover;
+  position: relative;
+  padding: 2rem;
+  color: white;
+}
+
+.login-illustration::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(74, 0, 224, 0.7);
+  z-index: 1;
+}
+
+.login-illustration-content {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+}
+
+.login-illustration-content h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.login-illustration-content p {
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+
+.login-illustration-content svg {
+  margin-top: 2rem;
+  opacity: 0.8;
+  transition: transform 0.3s ease;
+}
+
+.login-illustration-content svg:hover {
+  transform: scale(1.1);
+}
+
+.login-form {
+  padding: 2.5rem;
+}
+
+.login-form h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #333;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+/* Input Fields */
+.input-group {
+  margin-bottom: 1.5rem;
+}
+
+.input-group label {
+  display: block;
+  color: #666;
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+.input-group .input-wrapper {
+  position: relative;
+}
+
+.input-group input {
+  border: 2px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 0.5rem 0.75rem; /* Adjusted for medium size */
+  width: 100%;
+  font-size: 0.95rem; /* Adjusted for medium size */
+  transition: all 0.3s ease;
+  background: #f9fafb;
+}
+
+.input-group input::placeholder {
+  color: #aaa;
+  opacity: 0.5;
+  font-size: 0.9rem;
+}
+
+.input-group input:focus {
+  border-color: #4a00e0;
+  box-shadow: 0 0 8px rgba(74, 0, 224, 0.2);
+  outline: none;
+}
+
+/* Enhanced Button */
+.login-form button {
+  background: linear-gradient(90deg, #4a00e0, #8e2de2);
+  color: white;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  padding: 0.75rem 2rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+  display: block;
+  margin: 0 auto;
+  width: auto;
+}
+
+
+.login-form .password-toggle {
+  transform: translateY(-15%);
+  position: absolute;
+  right: 2px;
+  top: 10%;
+  background: transparent;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  font-size: 1 rem;
+  font-weight: 200;
+  transition: offset 0.3s ease;
+  display: block ;
+  margin: 0 auto; 
+}
+
+.login-form p {
+  text-align: center;
+  margin-top: 1.5rem;
+  color: #666;
+}
+
+.login-form a {
+  color: #4a00e0;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.login-form a:hover {
+  color: #8e2de2;
+}
+
+
+
+
+/* Adjust padding for password input to avoid overlap with toggle button */
+.input-group input[type="password"],
+.input-group input[type="text"] {
+  padding-right: 4rem; /* Increased padding to accommodate the wider button */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .login-card {
+    flex-direction: column;
+  }
+
+  .login-illustration {
+    display: none;
+  }
+
+  .login-form {
+    padding: 1.5rem;
+  }
+}
