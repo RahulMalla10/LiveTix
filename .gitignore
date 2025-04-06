@@ -1,11 +1,30 @@
-# Node (frontend)
-node_modules/
+# ======== General ========
+*.log
+.DS_Store
 .env
 
-# Python (backend)
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-db.sqlite3
-.env
+# ======== Node.js (React Frontend) ========
+livetix-frontend/node_modules/
+livetix-frontend/build/
+livetix-frontend/.env
+livetix-frontend/.DS_Store
+
+# ======== Python (Django Backend) ========
+livetix-backend/__pycache__/
+livetix-backend/*.py[cod]
+livetix-backend/db.sqlite3
+livetix-backend/.env
+livetix-backend/.vscode/
+livetix-backend/.DS_Store
+*.sqlite3
+
+# ======== Virtual Environment ========
+venv/
+env/
+ENV/
+
+# ======== IDEs / Editors ========
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
