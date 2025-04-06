@@ -19,7 +19,7 @@ LiveTix is a full-stack concert ticketing web application with:
 - View upcoming concerts
 - Login / Register with smooth transitions
 - Book a concert and get a downloadable ticket (PDF with QR code)
-- Admin panel for managing concerts and uploading artist images
+- Admin panel for managing concerts and users
 
 ---
 
